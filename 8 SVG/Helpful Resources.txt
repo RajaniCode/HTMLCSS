@@ -1,0 +1,9 @@
+Helpful Resources
+
+Here are a few useful links which are referenced in the course and video. Below, you can find your achievements and awards.
+
+• Resource Master List [http://delicious.com/alyssamichelle/SVG]
+• Making SVG Accessible [http://thenewcode.com/1026/Making-SVG-Accessible]
+• Clipping & Masking (CSS Tricks) [https://css-tricks.com/clipping-masking-css/]
+• An Introduction to SVG Animation [https://bigbitecreative.com/introduction-svg-animation/]
+• Adventures in Web Animations Course [https://www.codeschool.com/courses/adventures-in-web-animations]
