@@ -1,0 +1,8 @@
+Resources
+
+• Source Files [https://github.com/codeschool/WatchUsBuild-FlexboxReactNativeUI]
+• React Native [https://facebook.github.io/react-native/]
+• Hyperterm [https://hyperterm.org/]
+• Autojump [https://github.com/wting/autojump]
+• Atom [https://atom.io/]
+• Keyboard Maestro [https://www.keyboardmaestro.com/main/]

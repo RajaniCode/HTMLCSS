@@ -1,0 +1,7 @@
+https://www.w3.org/TR/css-flexbox-1/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+
+http://flexboxfroggy.com/
+
+https://github.com/codeschool/Practice-CrackingTheCaseWithFlexbox
